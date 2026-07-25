@@ -4,6 +4,13 @@ An end-to-end Machine Learning project that predicts the probability of customer
 
 ---
 
+## 🌐 Live Demo
+
+*🚀 Streamlit Web App:*  
+https://credit-risk-prediction-j8jqhlugmrtoce2uqrp7ux.streamlit.app
+
+---
+
 ## 📌 Project Overview
 
 Financial institutions need to identify customers who are likely to default on loans. This project builds a supervised machine learning model to estimate the probability of financial distress based on customer financial information.
